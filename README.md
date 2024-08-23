@@ -27,6 +27,9 @@ You can access the live version of PlaySmart Academy here: PlaySmart Academy
 ## Deployment & Hosting
 _ **Azure Static Web Apps**
 
+## you can run the game  the game
+  _ **https://ambitious-sea-0faa57b10.5.azurestaticapps.net/**
+
 ## Usage
 Explore Games: Visit the games section to play and learn.
 Learn: Access different educational resources designed for kids.
