@@ -1,4 +1,4 @@
-# playsmart
+
 PlaySmart Academy
 PlaySmart Academy is an educational and gaming website designed specifically for kids. The platform aims to create a fun and engaging learning environment where children can learn and play simultaneously. The website is built using JavaScript, HTML, and CSS, and is hosted and deployed on Azure.
 
@@ -21,24 +21,24 @@ Live Demo
 You can access the live version of PlaySmart Academy here: PlaySmart Academy
 
 Technologies Used
-Frontend:
-
+Frontend
 JavaScript
 HTML
 CSS
-Deployment & Hosting:
-
+Deployment & Hosting
 Azure Static Web Apps
 Installation
 To run this project locally, follow these steps:
 
 Clone the repository:
 
-
+bash
+Copy code
 git clone https://github.com/your-username/playsmart-academy.git
 Navigate to the project directory:
 
-
+bash
+Copy code
 cd playsmart-academy
 Open the project:
 
