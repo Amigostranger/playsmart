@@ -1,5 +1,5 @@
 
-PlaySmart Academy
+#PlaySmart Academy
 PlaySmart Academy is an educational and gaming website designed specifically for kids. The platform aims to create a fun and engaging learning environment where children can learn and play simultaneously. The website is built using JavaScript, HTML, and CSS, and is hosted and deployed on Azure.
 
 Table of Contents
